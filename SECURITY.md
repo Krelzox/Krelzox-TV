@@ -2,7 +2,7 @@
 
 ## Supported versions
 
-Krelzox OS is in early development and has no formal releases yet. Security
+Krelzox TV is in early development and has no formal releases yet. Security
 fixes are applied only to the latest code on the `main` branch.
 
 | Version | Supported |
@@ -19,7 +19,7 @@ Report them privately through GitHub's private vulnerability reporting:
 
 1. Go to the repository's **Security** tab.
 2. Select **Report a vulnerability**, or open
-   <https://github.com/Nach0t/Krelzox-OS/security/advisories/new> directly.
+   <https://github.com/Nach0t/Krelzox-TV/security/advisories/new> directly.
 3. Fill in the form and submit it. Only the maintainer can see the report.
 
 If that option is not available, open a public issue that asks for a private

@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Thanks for taking the time to report a problem.
-        **Security vulnerabilities must not be reported here** — follow [SECURITY.md](https://github.com/Nach0t/Krelzox-OS/blob/main/SECURITY.md) instead.
+        **Security vulnerabilities must not be reported here** — follow [SECURITY.md](https://github.com/Nach0t/Krelzox-TV/blob/main/SECURITY.md) instead.
         Remove IP addresses, account names and other personal data from logs and screenshots.
 
   - type: textarea

@@ -6,9 +6,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        Before asking, check the [README](https://github.com/Nach0t/Krelzox-OS#readme),
-        the [contributing guide](https://github.com/Nach0t/Krelzox-OS/blob/main/CONTRIBUTING.md)
-        and the [documentation](https://github.com/Nach0t/Krelzox-OS/tree/main/docs).
+        Before asking, check the [README](https://github.com/Nach0t/Krelzox-TV#readme),
+        the [contributing guide](https://github.com/Nach0t/Krelzox-TV/blob/main/CONTRIBUTING.md)
+        and the [documentation](https://github.com/Nach0t/Krelzox-TV/tree/main/docs).
 
   - type: textarea
     id: question

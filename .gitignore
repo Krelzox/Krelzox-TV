@@ -1,5 +1,5 @@
 # =====================================================================
-# Krelzox-OS · .gitignore
+# Krelzox-TV · .gitignore
 # Patrones acotados a propósito: nada genérico tipo "*token*" que pueda
 # ocultar código fuente legítimo (p. ej. DesignTokens.kt).
 # =====================================================================

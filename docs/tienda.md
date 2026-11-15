@@ -1,6 +1,6 @@
 # Krelzox Store
 
-Tienda de aplicaciones de Krelzox OS: una app de Android TV independiente
+Tienda de aplicaciones de Krelzox TV: una app de Android TV independiente
 (`dev.krelzox.store`, módulo `:store`) que instala, actualiza y desinstala apps
 de repositorios con formato F-Droid. Decisiones y motivos:
 [ADR-006](decisiones/ADR-006-krelzox-store.md).

@@ -1,7 +1,16 @@
 # Changelog
 
-All notable changes to Krelzox OS are documented here. Versions follow
+All notable changes to Krelzox TV are documented here. Versions follow
 [Semantic Versioning](https://semver.org/); `-alpha` releases are previews.
+
+## [Unreleased]
+
+### Changed
+- Renamed the project from Krelzox OS to **Krelzox TV**, since it is a suite
+  of apps on top of LineageOS rather than an operating system. The GitHub
+  repository is now `Nach0t/Krelzox-TV`; old links redirect. Package names
+  (`dev.krelzox.*`) are unchanged, so existing installs keep updating.
+- The launcher's About dialog now shows "Krelzox TV".
 
 ## [0.1.0-alpha] — 2026-11-14
 
@@ -38,4 +47,5 @@ First public preview. Three Android TV apps for the Raspberry Pi 5
 - Krelzox Store has no ratings, reviews or background update checks.
 - Only tested on the reference Raspberry Pi 5 build.
 
-[0.1.0-alpha]: https://github.com/Nach0t/Krelzox-OS/releases/tag/v0.1.0-alpha
+[Unreleased]: https://github.com/Nach0t/Krelzox-TV/compare/v0.1.0-alpha...HEAD
+[0.1.0-alpha]: https://github.com/Nach0t/Krelzox-TV/releases/tag/v0.1.0-alpha

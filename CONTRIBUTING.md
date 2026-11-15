@@ -1,6 +1,6 @@
-# Contributing to Krelzox OS
+# Contributing to Krelzox TV
 
-Thanks for your interest in Krelzox OS. This guide explains how to set up the
+Thanks for your interest in Krelzox TV. This guide explains how to set up the
 project, report problems and propose changes. By taking part you agree to the
 [Code of Conduct](CODE_OF_CONDUCT.md).
 
@@ -41,7 +41,7 @@ in [docs/rendimiento.md](docs/rendimiento.md) (Spanish).
 
 ## Reporting bugs and proposing improvements
 
-- Search the [existing issues](https://github.com/Nach0t/Krelzox-OS/issues)
+- Search the [existing issues](https://github.com/Nach0t/Krelzox-TV/issues)
   first.
 - Use the **Bug report**, **Feature request** or **Question** issue template.
 - For bugs, include the device, Android version, Krelzox version and steps to

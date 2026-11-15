@@ -3,7 +3,7 @@ plugins {
     alias(libs.plugins.kotlin.compose)
 }
 
-// Krelzox Remote: view and control Krelzox OS from a browser on the local network.
+// Krelzox Remote: view and control Krelzox TV from a browser on the local network.
 // A separate app so the HOME app never holds network, capture or accessibility
 // powers. See docs/decisiones/ADR-007-krelzox-remote.md.
 android {

@@ -15,7 +15,7 @@ object DeviceSettings {
 
     fun hasRaspberrySettings(context: Context): Boolean = isInstalled(context, KONSTAKANG_PACKAGE)
 
-    /** Krelzox Remote, a separate Krelzox OS app (declared in the manifest's <queries>). */
+    /** Krelzox Remote, a separate Krelzox TV app (declared in the manifest's <queries>). */
     const val KRELZOX_REMOTE_PACKAGE = "dev.krelzox.remote"
     const val KRELZOX_REMOTE_PANEL = "dev.krelzox.remote.ui.RemoteActivity"
 

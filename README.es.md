@@ -1,6 +1,6 @@
-# Krelzox OS
+# Krelzox TV
 
-[![Android CI](https://github.com/Nach0t/Krelzox-OS/actions/workflows/android.yml/badge.svg)](https://github.com/Nach0t/Krelzox-OS/actions/workflows/android.yml)
+[![Android CI](https://github.com/Nach0t/Krelzox-TV/actions/workflows/android.yml/badge.svg)](https://github.com/Nach0t/Krelzox-TV/actions/workflows/android.yml)
 ![Plataforma](https://img.shields.io/badge/plataforma-Android%20TV%2017-3DDC84)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Jetpack%20Compose%20for%20TV-7F52FF)
 ![Licencia](https://img.shields.io/badge/licencia-Apache%202.0-blue)
@@ -13,7 +13,11 @@ Jetpack Compose for TV que se instala como una app normal, sin root, sin
 modificar la ROM y conservando siempre el launcher del sistema como red de
 seguridad.
 
-*Antes se llamaba Nexium OS.*
+> **Krelzox TV no es una ROM ni un sistema operativo.** Es un conjunto de tres
+> apps de Android TV (Launcher, Store y Remote) que funciona sobre LineageOS.
+> No se flashea nada y el launcher del sistema se conserva siempre como respaldo.
+
+*Antes se llamaba Krelzox OS y, antes de eso, Nexium OS.*
 
 ![Pantalla de inicio de Krelzox](docs/images/home.png)
 

@@ -1,6 +1,6 @@
-# Krelzox OS
+# Krelzox TV
 
-[![Android CI](https://github.com/Nach0t/Krelzox-OS/actions/workflows/android.yml/badge.svg)](https://github.com/Nach0t/Krelzox-OS/actions/workflows/android.yml)
+[![Android CI](https://github.com/Nach0t/Krelzox-TV/actions/workflows/android.yml/badge.svg)](https://github.com/Nach0t/Krelzox-TV/actions/workflows/android.yml)
 ![Platform](https://img.shields.io/badge/platform-Android%20TV%2017-3DDC84)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Jetpack%20Compose%20for%20TV-7F52FF)
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue)
@@ -12,7 +12,11 @@ A premium Android TV experience for the Raspberry Pi 5. Its first component is
 Jetpack Compose for TV that installs as a regular app — no root, no ROM changes,
 and the stock launcher always kept as a safety net.
 
-*Formerly known as Nexium OS.*
+> **Krelzox TV is not a ROM or an operating system.** It is a suite of three
+> Android TV apps (Launcher, Store and Remote) that runs on top of LineageOS.
+> Nothing is flashed, and the stock launcher is always kept as a fallback.
+
+*Formerly known as Krelzox OS and, before that, Nexium OS.*
 
 ![Krelzox home screen](docs/images/home.png)
 

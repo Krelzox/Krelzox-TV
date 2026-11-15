@@ -20,7 +20,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Krelzox-OS"
+rootProject.name = "Krelzox-TV"
 
 include(":app")
 include(":core:designsystem")

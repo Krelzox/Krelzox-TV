@@ -1,6 +1,6 @@
 # Accessibility
 
-Krelzox OS aims to be usable by as many people as possible from the sofa, with
+Krelzox TV aims to be usable by as many people as possible from the sofa, with
 just a TV remote. This document describes what is in place today, what has not
 been verified yet, and how to report problems.
 
@@ -47,7 +47,7 @@ Android TV 17, 1920×1080):
 ## Reporting an accessibility problem
 
 Open an issue with the
-[Bug report](https://github.com/Nach0t/Krelzox-OS/issues/new?template=bug_report.yml)
+[Bug report](https://github.com/Nach0t/Krelzox-TV/issues/new?template=bug_report.yml)
 template and mention accessibility in the title. Please include:
 
 - The screen and the element involved.

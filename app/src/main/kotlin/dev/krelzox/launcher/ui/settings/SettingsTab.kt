@@ -276,7 +276,7 @@ fun AboutDialog(appCount: Int, onDismiss: () -> Unit) {
                 .padding(KrelzoxSpacing.Large),
             verticalArrangement = Arrangement.spacedBy(KrelzoxSpacing.Small),
         ) {
-            Text("Krelzox-OS", style = MaterialTheme.typography.headlineMedium, color = KrelzoxColors.OnBackground)
+            Text("Krelzox TV", style = MaterialTheme.typography.headlineMedium, color = KrelzoxColors.OnBackground)
             AboutLine(stringResource(R.string.about_version), version)
             AboutLine(stringResource(R.string.about_android), "Android ${Build.VERSION.RELEASE} (SDK ${Build.VERSION.SDK_INT})")
             AboutLine(stringResource(R.string.about_device), Build.MODEL)
